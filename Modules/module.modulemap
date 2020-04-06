@@ -1,0 +1,11 @@
+framework module CodeBrewFramework {
+  umbrella header "CodeBrewFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CodeBrewFramework.Swift {
+    header "CodeBrewFramework-Swift.h"
+    requires objc
+}
