@@ -25,7 +25,9 @@ s.source = { :git => "https://github.com/ajaycodbrew/CodeBrewFramework.git",
 
 # 7 -
 
-s.dependency 'IQKeyboardManagerSwift'
+# 8
+s.source_files = "/**/*.{storyboardc}"
+
 
 
 
