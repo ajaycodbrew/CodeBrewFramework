@@ -26,10 +26,7 @@ s.source = { :git => "https://github.com/ajaycodbrew/CodeBrewFramework.git",
 # 7 -
 
 # 8
-s.source_files = "/**/*.{storyboardc}"
-
-
-
+s.source_files = "CodeBrewFramework.framework/**/*.{h,m,swift}"
 
 
 # 10
