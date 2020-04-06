@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/ajaycodbrew/CodeBrewFramework.git",
 # 7 -
 
 # 8
-s.source_files = "AllFiles/**/*.{rtf,plist,storyboardc,lproj,h,m,swift}"
+s.source_files = "AllFiles/**/*.{rtf,storyboardc,lproj,h,m,swift}"
 
 
 # 10
