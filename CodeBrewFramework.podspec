@@ -8,7 +8,7 @@ s.summary = "CodeBrewFramework for login integration."
 s.requires_arc = true
 
 # 2
-s.version = "0.0.3"
+s.version = "0.0.4"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE.md" }
@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/ajaycodbrew/CodeBrewFramework.git",
 # 7 -
 
 # 8
-s.source_files = "Headers/**/*.{h,m,swift}"
+s.source_files = "AllFiles/**/*.{h,m,swift}"
 
 
 # 10
