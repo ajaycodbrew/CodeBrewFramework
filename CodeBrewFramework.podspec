@@ -26,7 +26,9 @@ s.source = { :git => "https://github.com/ajaycodbrew/CodeBrewFramework.git",
 # 7 -
 
 # 8
-s.source_files = "CodeBrewFramework.framework/**/*.{rtf,storyboardc,lproj,h,m,swift}"
+s.source_files = "CodeBrewFramework.framework/Headers/*.h"
+
+s.vendored_frameworks = "CodeBrewFramework.framework"
 
 
 # 10
